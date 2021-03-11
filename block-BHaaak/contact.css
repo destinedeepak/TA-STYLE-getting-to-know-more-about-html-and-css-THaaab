@@ -1,0 +1,22 @@
+img{
+    width: 400px;
+    height:200px;
+}
+
+a{
+    color: blue;
+    font-size: 20px;
+}
+
+#mailme{
+    background-color:#6B8E22;
+    font-size: 12px;
+    color: black;
+
+}
+
+#backtotop{
+    background-color:#6B8E22;
+    font-size: 12px;
+    color: black;
+}
